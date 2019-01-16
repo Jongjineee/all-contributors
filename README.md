@@ -20,7 +20,7 @@
 [![version][version-badge]][package]
 [![MIT License][license-badge]][LICENSE]
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome][prs-badge]][prs]
 [![Implementations][implementations-badge]][implementations]
 [![Donate][donate-badge]][donate]
